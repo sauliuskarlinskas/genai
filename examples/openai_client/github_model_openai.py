@@ -25,7 +25,7 @@ response = client.chat.completions.create(
         },
         {
             "role": "user",
-            "content": "What is the capital of Norway?",
+            "content": "What is the capital of America?",
         }
     ],
     model="gpt-4o",
