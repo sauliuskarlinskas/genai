@@ -1,3 +1,3 @@
-User: What’s the current temperature in Paris?
-Assistant: The current temperature in Paris (48.8566° N, 2.3522° E) is 7.2°C.
-User: Please write this conversation to a file.
+User: "What's the current temperature in Paris?"
+Assistant: "The current temperature in Paris is 11.0°C."
+User: "Please write this conversation to a file."
