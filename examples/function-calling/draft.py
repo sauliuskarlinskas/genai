@@ -68,7 +68,7 @@ tools = [{
 }]
 
 # Step 1: Ask OpenAI a question about Skuodas
-messages = [{"role": "user", "content": "What is the origin of name Skuodas?"}]
+messages = [{"role": "user", "content": "Make a summary about Skuodas."}]
 
 completion = client.chat.completions.create(
     model="gpt-4o",

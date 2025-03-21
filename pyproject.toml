@@ -7,6 +7,8 @@ requires-python = ">=3.13"
 dependencies = [
     "beautifulsoup4>=4.13.3",
     "dotenv>=0.9.9",
+    "google-genai>=1.7.0",
+    "google-generativeai>=0.8.4",
     "ipykernel>=6.29.5",
     "langchain>=0.3.20",
     "langchain-community>=0.3.19",
@@ -15,6 +17,8 @@ dependencies = [
     "langchain-text-splitters>=0.3.6",
     "langgraph>=0.3.7",
     "openai>=1.66.2",
+    "pillow>=11.1.0",
+    "pybase64>=1.4.1",
     "pydantic>=2.10.6",
     "pypdf>=5.3.1",
     "python-dotenv>=1.0.1",

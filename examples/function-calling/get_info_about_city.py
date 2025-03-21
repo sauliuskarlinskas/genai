@@ -69,7 +69,7 @@ tools = [{
 
 completion=client.chat.completions.create(
       model="gpt-4o",
-    messages=[{"role": "system", "content": "When was the city of Skuodas founded?"}],
+    messages=[{"role": "system", "content": "Make a summary about Skuodas."}],
     tools=tools
 )
 #print(completion)
